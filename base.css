@@ -176,6 +176,8 @@ nav.main-nav {
   position: absolute;
   top: 7rem;
   right: -6rem;
+  display: flex;
+  align-items: center;
 }
 
 i.fa-solid.fa-circle {
@@ -420,7 +422,7 @@ option {
 }
 
 button.primary-btn.submit-btn {
-  margin-top: 10px;
+  margin-top: 20px;
   border: 0px;
 }
 
@@ -459,6 +461,7 @@ select {
 
 .team-info h4 {
   font-size: 20px;
+  margin-bottom: 10px;
 }
 
 .team-info p {
@@ -505,7 +508,7 @@ select {
 .menu-list ul li a {
   text-decoration: none;
   color: #8c8c8c;
-  font-size: 23px;
+  font-size: 18px;
 }
 
 .menu-list ul li a:hover {

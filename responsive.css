@@ -61,12 +61,12 @@
   }
 
   .video-list {
-    left: 1rem;
-    bottom: 15rem;
+    left: 0;
+    bottom: 7rem;
   }
 
   .workout-list {
-    top: 3rem;
+    top: 5rem;
     right: 0;
   }
 
@@ -133,9 +133,22 @@
   .team-member {
     grid-template-columns: 1fr;
     padding: 20px;
+    gap: 20px;
   }
 
   .main-footer {
     grid-template-columns: 1fr;
+  }
+
+  .menu-list h3 {
+    font-size: 22px;
+  }
+
+  .menu-list ul li a {
+    font-size: 16px;
+  }
+
+  .logo-with-text .site-logo a {
+    font-size: 50px;
   }
 }
