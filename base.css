@@ -27,7 +27,7 @@ body {
 }
 
 .area {
-  padding: 80px;
+  padding: 80px 0;
 }
 
 .primary-btn {
@@ -142,7 +142,7 @@ nav.main-nav {
   background-color: #e6533c;
   border-radius: 50px;
 }
-/* Hero Section */
+/************************************* Hero Section *************************************/
 .hero-section {
   display: grid;
   grid-template-columns: 50% 1fr;
@@ -222,7 +222,7 @@ i.fa-solid.fa-circle {
   font-size: 78px;
 }
 
-/* Change Your Habit Section Start */
+/************************************* Change Your Habit Section Start *************************************/
 .title-section {
   text-align: center;
   margin-bottom: 50px;
@@ -254,7 +254,7 @@ i.fa-solid.fa-circle {
   padding-top: 10px;
 }
 
-/* Run Extra Section Start */
+/************************************* Run Extra Section Start *************************************/
 .text-area p {
   margin: 0px;
   padding: 0px;
@@ -291,7 +291,7 @@ i.fa-solid.fa-circle {
   text-align: right;
 }
 
-/* Experience Section Start */
+/************************************* Experience Section Start *************************************/
 .experience {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -342,7 +342,7 @@ i.fa-solid.fa-circle {
 .right-icon-info p {
   text-align: right;
 }
-/* BMI Section Style Start */
+/************************************* BMI Section Style Start *************************************/
 .heading-section h2,
 .heading-section p {
   text-align: left;
@@ -430,7 +430,7 @@ select {
   color: #858585;
 }
 
-/* Team Member Style Start */
+/************************************* Team Member Style Start *************************************/
 .team-member {
   background-color: #191919;
   padding: 50px;
@@ -466,7 +466,7 @@ select {
   color: #bbbbbb;
 }
 
-/* Footer Style */
+/************************************* Footer Style *************************************/
 .main-footer {
   display: grid;
   grid-template-columns: 40% 30% 30%;

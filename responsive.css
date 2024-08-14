@@ -1,0 +1,137 @@
+@media only screen and (max-width: 576px) {
+  .nav-desktop {
+    display: none;
+  }
+
+  .mb-responsive {
+    padding: 0 20px;
+  }
+
+  .nav-mobile {
+    display: block;
+  }
+
+  i.fa-solid.fa-bars {
+    color: #ffffff;
+    font-size: 28px;
+  }
+
+  .hero-info {
+    max-width: 100%;
+  }
+
+  .hero-info h1 {
+    font-size: 44px;
+    max-width: 85%;
+    line-height: 65px;
+  }
+
+  .hero-info p {
+    max-width: 85%;
+    color: #8c8c8c;
+  }
+  .hero-img {
+    text-align: left;
+  }
+  .primary-btn {
+    padding: 8px 20px;
+    font-size: 16px;
+    line-height: 30px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .secondary-btn {
+    line-height: 30px;
+    padding: 8px 20px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .grp-btn {
+    gap: 10px;
+  }
+
+  .hero-section {
+    grid-template-columns: 1fr;
+  }
+
+  .video-list {
+    left: 1rem;
+    bottom: 15rem;
+  }
+
+  .workout-list {
+    top: 3rem;
+    right: 0;
+  }
+
+  h2.title {
+    font-size: 32px;
+  }
+
+  .text-area h2,
+  .text-area p {
+    width: 85%;
+  }
+
+  .text-area a {
+    width: 100%;
+  }
+
+  .img-card {
+    grid-template-columns: 1fr;
+    gap: 50px;
+  }
+
+  p.sub-title {
+    width: 100%;
+  }
+
+  .img-area img {
+    margin-top: 20px;
+  }
+
+  .text-area {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .img-with-text {
+    grid-template-columns: 1fr;
+    padding: 30px;
+  }
+
+  .experience-image img {
+    width: 100%;
+  }
+
+  .heading-section h2 {
+    width: 100%;
+  }
+
+  table.bmi-table {
+    width: 100%;
+  }
+
+  .calc {
+    margin-top: 50px;
+  }
+
+  .experience {
+    grid-template-columns: 1fr;
+  }
+
+  .bmi-calc {
+    grid-template-columns: 1fr;
+  }
+
+  .team-member {
+    grid-template-columns: 1fr;
+    padding: 20px;
+  }
+
+  .main-footer {
+    grid-template-columns: 1fr;
+  }
+}
