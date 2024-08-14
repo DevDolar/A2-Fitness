@@ -3,6 +3,10 @@
     display: none;
   }
 
+  .area {
+    padding: 50px 0;
+  }
+
   .mb-responsive {
     padding: 0 20px;
   }
